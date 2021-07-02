@@ -178,7 +178,8 @@ execute_query(connection, delete_comment)
 - [Datatypes in sqlite3](https://www.sqlite.org/datatype3.html)
 - [1 - SQLite tutorial - medium](https://medium.com/swlh/data-analysis-sqlite3-in-python-1868903eaee)
 - [2 - SQLite tutorial - medium](https://medium.com/road-to-full-stack-data-science/create-and-manipulate-sqlite-tables-within-python-a-must-have-skill-for-data-scientists-3c12474fa050)
-- [Mac: Cmd+Shift+R - hard refresh](https://stackoverflow.com/questions/41144565/flask-does-not-see-change-in-js-file)
+- [sqlite-commands](https://www.sqlitetutorial.net/sqlite-commands/)
+- [Flask and SQLite](https://flask.palletsprojects.com/en/2.0.x/tutorial/database/)
 
 
 
