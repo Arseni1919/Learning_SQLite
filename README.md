@@ -165,16 +165,9 @@ delete_comment = "DELETE FROM comments WHERE id = 5"
 execute_query(connection, delete_comment)
 ```
 
-###
-
-```python
-```
-
-
-
 ## Credits
 
-- [Introduction to Python SQL Libraries](https://realpython.com/python-sql-libraries/#understanding-the-database-schema)
+- [Introduction to Python SQL Libraries - Real Python](https://realpython.com/python-sql-libraries/#understanding-the-database-schema)
 - [Datatypes in sqlite3](https://www.sqlite.org/datatype3.html)
 - [1 - SQLite tutorial - medium](https://medium.com/swlh/data-analysis-sqlite3-in-python-1868903eaee)
 - [2 - SQLite tutorial - medium](https://medium.com/road-to-full-stack-data-science/create-and-manipulate-sqlite-tables-within-python-a-must-have-skill-for-data-scientists-3c12474fa050)
